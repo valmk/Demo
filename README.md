@@ -1,2 +1,3 @@
 # Demo
-Practice Repo
+Git practice demo
+Practice Rep
